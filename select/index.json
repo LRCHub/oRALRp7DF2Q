@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた/COVER】妄想感傷代償連盟/DECO*27 （Covered by 巫てんり）【 #vtuber 】",
+  "base_artist": "巫てんり / Kannagi Tenri",
+  "createdAt": "2025-12-31T21:09:26.258793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_妄想感傷代償連盟_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_妄想感傷代償連盟_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&東雲絵名&初音ミク",
+      "has_synced": true,
+      "path": "select/03_妄想感傷代償連盟_25時、ナイトコードで。_feat._宵崎奏&東雲絵名&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/04_妄想感傷代償連盟_YuNi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_妄想感傷代償連盟_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/06_妄想感傷代償連盟_YuNi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_妄想感傷代償連盟_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "神田沙也加 (かんだ さやか)",
+      "has_synced": false,
+      "path": "select/08_妄想感傷代償連盟_神田沙也加_(かんだ_さやか).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "DECO*27&初音ミク",
+      "has_synced": true,
+      "path": "select/09_妄想感傷代償連盟_DECO_27&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/10_妄想感傷代償連盟_Sou.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "冬名",
+      "has_synced": true,
+      "path": "select/11_妄想感傷代償連盟_冬名.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "神田沙也加",
+      "has_synced": false,
+      "path": "select/12_妄想感傷代償連盟_神田沙也加.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/13_妄想感傷代償連盟_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟 (feat. 宵崎奏&東雲絵名&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/14_妄想感傷代償連盟_(feat._宵崎奏&東雲絵名&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DSCF - 妄想感傷代償連盟 (MKDR)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/15_DSCF_-_妄想感傷代償連盟_(MKDR)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "妄想感傷代償連盟 with いかさん",
+      "artist": "＋α／あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/16_妄想感傷代償連盟_with_いかさん_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "妄想感傷代償連盟",
+      "artist": "巫てんり",
+      "has_synced": false,
+      "path": "select/pl_01_妄想感傷代償連盟_巫てんり.txt"
+    }
+  ]
+}
